@@ -1,1 +1,4 @@
-second test and third test fourth fixth one more test
+
+<cfoutput>
+this is a test
+</cfoutput>
